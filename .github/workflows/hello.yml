@@ -22,7 +22,7 @@ jobs:
       - name: Run test 
         run: |
           echo "Running tests..."
-          exit 1  
+          npm test 
 
   deploy-app:
     runs-on: ubuntu-latest
