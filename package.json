@@ -1,0 +1,26 @@
+{
+  "name": "fse_2210",
+  "version": "1.0.0",
+  "description": "Testing PR workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiwangikhanna349/FSE_2210.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Shiwangikhanna349/FSE_2210/issues"
+  },
+  "homepage": "https://github.com/Shiwangikhanna349/FSE_2210#readme",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "eslint": "^10.2.1",
+    "express": "^5.2.1"
+  }
+}
